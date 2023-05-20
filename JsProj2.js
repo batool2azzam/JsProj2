@@ -129,7 +129,7 @@ function Task(description, dueDate, priority) {
   
   const defaultTasks = [
     new Task("Finish project", "2023-05-22", 2),
-    new Task("Buy groceries", "2023-05-24", 1),
+    new Task("Study for exam", "2023-05-24", 1),
     new Task("Call a friend", "2023-05-26", 3)
   ];
   
